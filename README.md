@@ -33,7 +33,7 @@
         <ul>
             <li>Stochastic Weather Prediction Model with GUI</li>
             <li>BMI Calculator using Flutter</li>
-            <li>Dynamic Sudoku Solver</li>
+            <li> Sudoku Solver</li>
         </ul>
     </section>
     <section class="resume-container">
